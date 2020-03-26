@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">My Diary</string>
+    <string name="app_title"><font color="#000000"><b>L O G I N</b></font></string>
+    <string name="app_register"><font color="#FF1D809F"><b>Create an account</b></font></string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="drawer_open">Open Drawer</string>
+    <string name="drawer_close">Close Drawer</string>
+</resources>
